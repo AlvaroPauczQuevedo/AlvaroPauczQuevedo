@@ -69,12 +69,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlvaroPauczQuevedo&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroPauczQuevedo&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlvaroPauczQuevedo&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlvaroPauczQuevedo&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlvaroPauczQuevedo&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
+  <img src="https://streak-stats.demolab.com/?user=AlvaroPauczQuevedo&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
 </p>
 
 ---
