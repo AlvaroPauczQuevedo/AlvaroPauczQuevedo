@@ -17,6 +17,7 @@
 
 ## 🚀 Sobre mim
 
+- 💼 Project Manager na VorixIA - https://prot-tipo-view-page.pages.dev/#
 - 🏨 Trabalho com **automação de processos** na Rede Tri Hotéis
 - 🤖 Construo robôs de **RPA** que extraem, tratam e distribuem dados operacionais
 - 🌐 Desenvolvo aplicações web full stack com **TypeScript**, **React/Next.js** e **NestJS**
