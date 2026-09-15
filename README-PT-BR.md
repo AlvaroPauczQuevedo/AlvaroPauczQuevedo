@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://github.com/AlvaroPauczQuevedo/AlvaroPauczQuevedo/blob/main/README.md">English</a> &middot;
+  <strong>Português</strong>
+</p>
+
 <h1 align="center">Olá, eu sou o Álvaro Quevedo 👋</h1>
 
 <p align="center">
