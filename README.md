@@ -13,10 +13,10 @@
   <a href="https://github.com/AlvaroPauczQuevedo">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-USERNAME/">
+  <a href="https://www.linkedin.com/in/%C3%A1lvaro-quevedo-9ba4b3241/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="mailto:alvaroquevedop@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -100,8 +100,8 @@ I work at the intersection of process automation and web development. Most of wh
 
 ## 📫 Get in touch
 
-- 💼 LinkedIn: [YOUR-USERNAME](https://www.linkedin.com/in/YOUR-USERNAME/)
-- 📧 Email: [YOUR-EMAIL@example.com](mailto:YOUR-EMAIL@example.com)
+- 💼 LinkedIn: [Álvaro Quevedo](https://www.linkedin.com/in/%C3%A1lvaro-quevedo-9ba4b3241/)
+- 📧 Email: [alvaroquevedop@gmail.com](mailto:alvaroquevedop@gmail.com)
 - 💻 GitHub: [AlvaroPauczQuevedo](https://github.com/AlvaroPauczQuevedo)
 
 <p align="center">
