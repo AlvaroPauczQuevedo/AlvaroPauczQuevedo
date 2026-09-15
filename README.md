@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://github.com/AlvaroPauczQuevedo/AlvaroPauczQuevedo/blob/main/README.md">English</a> &middot;
-  <strong>Português</strong>
+  <strong>English</strong> &middot;
+  <a href="https://github.com/AlvaroPauczQuevedo/AlvaroPauczQuevedo/blob/main/README.pt-BR.md">Português</a>
 </p>
 
-<h1 align="center">Olá, eu sou o Álvaro Quevedo 👋</h1>
+<h1 align="center">Hi, I'm Álvaro Quevedo 👋</h1>
 
 <p align="center">
-  <em>Desenvolvedor focado em automação de processos, RPA e aplicações web.</em>
+  <em>Automation engineer and full stack developer. I build RPA bots and web applications that take repetitive work off people's hands.</em>
 </p>
 
 <p align="center">
@@ -17,28 +17,30 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:alvaroquevedop@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
-  </a>
-  <a href="https://www.instagram.com/_alvaro_quevedo_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About me
 
-- 💼 Project Manager na [**Vorix**](https://www.vorix.com.br/) — automação RPA, IA e software sob medida
-- 🏨 Trabalho com **automação de processos** na Rede Tri Hotéis
-- 🤖 Construo robôs de **RPA** que extraem, tratam e distribuem dados operacionais
-- 🌐 Desenvolvo aplicações web full stack com **TypeScript**, **React/Next.js** e **NestJS**
-- 🐍 Uso **Python** para scraping, relatórios automatizados e dashboards
-- 🎓 Técnico em Análise e Desenvolvimento de Sistemas
-- ⚡ Gosto de resolver problemas chatos e repetitivos com scripts que rodam sozinhos
+I work at the intersection of process automation and web development. Most of what I build starts the same way: someone is doing a task by hand every day, and it doesn't need a human.
+
+- 💼 Project Manager at [**Vorix**](https://www.vorix.com.br/) — RPA, AI and custom software
+- 🏨 Process automation at **Rede Tri Hotéis**, a Brazilian hotel group
+- 🤖 I build **RPA bots** that extract, process and distribute operational data
+- 🌐 I develop full stack web applications with **TypeScript**, **React/Next.js** and **NestJS**
+- 🐍 I use **Python** for scraping, automated reporting and dashboards
+- 🎓 Technical degree in Systems Analysis and Development
+- 🌍 Based in Brazil · **Open to relocation and visa sponsorship**
+- 🗣️ Portuguese (native) · English (working on it, currently intermediate)
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tech stack
+
+**Languages**
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -49,6 +51,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
+**Frameworks & tools**
+
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -57,6 +61,8 @@
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 </p>
+
+**Data & infrastructure**
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -68,37 +74,36 @@
 
 ---
 
-## 📌 Projetos em destaque
+## 📌 Featured projects
 
-| Projeto | Descrição | Stack |
+| Project | What it does | Stack |
 | :--- | :--- | :--- |
-| [**ReviewHub**](https://github.com/AlvaroPauczQuevedo/reviewhub-prototipo) | Plataforma SaaS multi-tenant para gestão de avaliações do Google Business Profile, com análise de sentimento por IA e aprovação humana das respostas. | `Next.js` `NestJS` `PostgreSQL` `Prisma` `Redis` |
-| [**HITS Monitor**](https://github.com/AlvaroPauczQuevedo/Automatizar-Processos---Disponibilidade) | RPA que extrai dados de ocupação e disponibilidade do sistema hoteleiro HITS e distribui relatórios em Excel/PDF/CSV, e-mail e dashboard em tempo real. | `Python` `Playwright` `Dash/Flask` `APScheduler` |
-| [**Desligamento Agendável**](https://github.com/AlvaroPauczQuevedo/Desligamento-Agendavel) | Script que faz o desligamento automático de todos os computadores configurados via Agendador de Tarefas. | `PowerShell` |
-| [**Quevedinha Jeans**](https://github.com/AlvaroPauczQuevedo/Loja-de-Roupas---Quevedinha-Jeans) | Front-end de loja de roupas, projeto de estudo focado em layout e estilização. | `HTML` `CSS` |
+| [**ReviewHub**](https://github.com/AlvaroPauczQuevedo/reviewhub-prototipo) | Multi-tenant SaaS platform for managing Google Business Profile reviews. AI-powered sentiment analysis drafts the replies; a human approves them before they go live. | `Next.js` `NestJS` `PostgreSQL` `Prisma` `Redis` |
+| [**HITS Monitor**](https://github.com/AlvaroPauczQuevedo/Automatizar-Processos---Disponibilidade) | RPA bot that pulls occupancy and availability data from the HITS hotel management system and distributes it as Excel/PDF/CSV reports, email digests and a live dashboard. Running in daily production use. | `Python` `Playwright` `Dash/Flask` `APScheduler` |
+| [**Scheduled Shutdown**](https://github.com/AlvaroPauczQuevedo/Desligamento-Agendavel) | Script that automatically shuts down every configured machine on a schedule, triggered through Windows Task Scheduler. | `PowerShell` |
+| [**Quevedinha Jeans**](https://github.com/AlvaroPauczQuevedo/Loja-de-Roupas---Quevedinha-Jeans) | Front end for a clothing store. A study project focused on layout and styling. | `HTML` `CSS` |
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlvaroPauczQuevedo&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroPauczQuevedo&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlvaroPauczQuevedo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroPauczQuevedo&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlvaroPauczQuevedo&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlvaroPauczQuevedo&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 </p>
 
 ---
 
-## 📫 Onde me encontrar
+## 📫 Get in touch
 
 - 💼 LinkedIn: [Álvaro Quevedo](https://www.linkedin.com/in/%C3%A1lvaro-quevedo-9ba4b3241/)
-- 📧 E-mail: [alvaroquevedop@gmail.com](mailto:alvaroquevedop@gmail.com)
+- 📧 Email: [alvaroquevedop@gmail.com](mailto:alvaroquevedop@gmail.com)
 - 💻 GitHub: [AlvaroPauczQuevedo](https://github.com/AlvaroPauczQuevedo)
-- 📷 Instagram: [@_alvaro_quevedo_](https://www.instagram.com/_alvaro_quevedo_/)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlvaroPauczQuevedo&style=flat-square&color=blue" alt="Visualizações do perfil" />
+  <img src="https://komarev.com/ghpvc/?username=AlvaroPauczQuevedo&style=flat-square&color=blue" alt="Profile views" />
 </p>
