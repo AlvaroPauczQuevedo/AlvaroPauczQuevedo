@@ -88,8 +88,8 @@ I work at the intersection of process automation and web development. Most of wh
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlvaroPauczQuevedo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroPauczQuevedo&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlvaroPauczQuevedo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlvaroPauczQuevedo&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </p>
 
 <p align="center">
