@@ -79,19 +79,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlvaroPauczQuevedo&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlvaroPauczQuevedo&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlvaroPauczQuevedo&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
-</p>
-
----
-
 ## 📫 Onde me encontrar
 
 - 💼 LinkedIn: [Álvaro Quevedo](https://www.linkedin.com/in/%C3%A1lvaro-quevedo-9ba4b3241/)
