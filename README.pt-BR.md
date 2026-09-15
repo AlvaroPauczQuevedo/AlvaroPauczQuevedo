@@ -13,10 +13,10 @@
   <a href="https://github.com/AlvaroPauczQuevedo">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/SEU-USUARIO/">
+  <a href="https://www.linkedin.com/in/%C3%A1lvaro-quevedo-9ba4b3241/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:SEU-EMAIL@exemplo.com">
+  <a href="mailto:alvaroquevedop@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
   <a href="https://www.instagram.com/_alvaro_quevedo_/">
@@ -82,8 +82,8 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlvaroPauczQuevedo&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroPauczQuevedo&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlvaroPauczQuevedo&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlvaroPauczQuevedo&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
@@ -94,8 +94,8 @@
 
 ## 📫 Onde me encontrar
 
-- 💼 LinkedIn: [SEU-USUARIO](https://www.linkedin.com/in/SEU-USUARIO/)
-- 📧 E-mail: [SEU-EMAIL@exemplo.com](mailto:SEU-EMAIL@exemplo.com)
+- 💼 LinkedIn: [Álvaro Quevedo](https://www.linkedin.com/in/%C3%A1lvaro-quevedo-9ba4b3241/)
+- 📧 E-mail: [alvaroquevedop@gmail.com](mailto:alvaroquevedop@gmail.com)
 - 💻 GitHub: [AlvaroPauczQuevedo](https://github.com/AlvaroPauczQuevedo)
 - 📷 Instagram: [@_alvaro_quevedo_](https://www.instagram.com/_alvaro_quevedo_/)
 
